@@ -34,7 +34,7 @@ Download subset of **ASVspoof 2019 LA** from:
 ## 🛠️ Getting Started
 
 ```bash
-git clone https://github.com/yourusername/audio-deepfake-detection-momenta
+git clone https://github.com/Abhishek0-7/audio-deepfake-detection
 cd audio-deepfake-detection-momenta
 pip install -r requirements.txt
 
