@@ -41,8 +41,9 @@ pip install -r requirements.txt
 ```
 Then run the notebook:
 
+```bash
 jupyter notebook notebooks/implementation.ipynb
-
+```
 
 
 ---
